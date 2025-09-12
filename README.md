@@ -8,3 +8,6 @@ DESENHO GERADO A PARTIR DA APLICAÇÃO
 
 EXEMPLO DE RELATÓRIO GERADO PELA APLICAÇÃO
 <img width="1238" height="217" alt="image" src="https://github.com/user-attachments/assets/7f953cd3-82a4-4140-bf68-5a1c3cddac0d" />
+
+CASO QUISER GERAR DESENHOS EM LOTE, É POSSIVEL CARREGAR A PLANILHA DE PEÇAS.
+<img width="381" height="366" alt="image" src="https://github.com/user-attachments/assets/68df381f-9ad7-4217-8c73-88f093d77499" />
