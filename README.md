@@ -5,3 +5,6 @@ RPA para automação do fluxo de desenhos técnicos. (Permite criar desenhos em 
 
 DESENHO GERADO A PARTIR DA APLICAÇÃO
 <img width="756" height="744" alt="image" src="https://github.com/user-attachments/assets/f1fccef0-7a38-4aa2-aa67-0ced8e9c1843" />
+
+EXEMPLO DE RELATÓRIO GERADO PELA APLICAÇÃO
+<img width="1238" height="217" alt="image" src="https://github.com/user-attachments/assets/7f953cd3-82a4-4140-bf68-5a1c3cddac0d" />
