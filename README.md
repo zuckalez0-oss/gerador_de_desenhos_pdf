@@ -12,3 +12,7 @@ EXEMPLO DE RELATÓRIO GERADO PELA APLICAÇÃO
 
 CASO QUISER GERAR DESENHOS EM LOTE, É POSSIVEL CARREGAR A PLANILHA DE PEÇAS.
 <img width="381" height="366" alt="image" src="https://github.com/user-attachments/assets/68df381f-9ad7-4217-8c73-88f093d77499" />
+
+ATT: 12/09/2025
+AGORA PODEMOS GERAR OS DXF'S JUNTO COM OS PDF'S, GERADOR DE DXF INTEGRADO A APLICAÇÃO DE DESENHOS. (ECOSISTEMA PARA DESENHISTAS CAD)
+<img width="1899" height="59" alt="image" src="https://github.com/user-attachments/assets/86d95b82-1eab-4690-ae14-ba08868b28da" />
