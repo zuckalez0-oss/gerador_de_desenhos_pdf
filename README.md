@@ -1,4 +1,4 @@
-# gerador_de_desenhos_pdf
+#GERADOR_DE_DESENHO_TÉCNICO (AUTOMAÇÃO DE FLUXO DE TRABALHO)
 RPA para automação do fluxo de desenhos técnicos. (Permite criar desenhos em lote em formato pdf)
 
 ##INTERFAÇE DA APLICAÇÃO
