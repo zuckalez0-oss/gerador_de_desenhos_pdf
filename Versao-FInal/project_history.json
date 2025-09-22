@@ -1,0 +1,77 @@
+{
+    "123456": {
+        "project_number": "123456",
+        "save_date": "22/09/2025 14:53:15",
+        "pieces": [
+            {
+                "nome_arquivo": "DES1",
+                "forma": "rectangle",
+                "espessura": 2.0,
+                "qtd": 100.0,
+                "largura": 200.0,
+                "altura": 300.0,
+                "diametro": 0.0,
+                "rt_base": 0.0,
+                "rt_height": 0.0,
+                "trapezoid_large_base": 0.0,
+                "trapezoid_small_base": 0.0,
+                "trapezoid_height": 0.0,
+                "furos": [],
+                "project_number": "123456"
+            },
+            {
+                "nome_arquivo": "DES2",
+                "forma": "rectangle",
+                "espessura": 3.0,
+                "qtd": 100.0,
+                "largura": 300.0,
+                "altura": 300.0,
+                "diametro": 0.0,
+                "rt_base": 0.0,
+                "rt_height": 0.0,
+                "trapezoid_large_base": 0.0,
+                "trapezoid_small_base": 0.0,
+                "trapezoid_height": 0.0,
+                "furos": [],
+                "project_number": "123456"
+            },
+            {
+                "nome_arquivo": "DES3",
+                "forma": "rectangle",
+                "espessura": 4.75,
+                "qtd": 200.0,
+                "largura": 300.0,
+                "altura": 300.0,
+                "diametro": 0.0,
+                "rt_base": 0.0,
+                "rt_height": 0.0,
+                "trapezoid_large_base": 0.0,
+                "trapezoid_small_base": 0.0,
+                "trapezoid_height": 0.0,
+                "furos": [
+                    {
+                        "diam": 15.0,
+                        "x": 35.0,
+                        "y": 35.0
+                    },
+                    {
+                        "diam": 15.0,
+                        "x": 265.0,
+                        "y": 35.0
+                    },
+                    {
+                        "diam": 15.0,
+                        "x": 265.0,
+                        "y": 265.0
+                    },
+                    {
+                        "diam": 15.0,
+                        "x": 35.0,
+                        "y": 265.0
+                    }
+                ],
+                "project_number": "123456"
+            }
+        ]
+    }
+}
